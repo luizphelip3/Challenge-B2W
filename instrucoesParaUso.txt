@@ -1,0 +1,14 @@
+﻿Requisitos para funcionamento:
+  * IDE Eclipse
+  * Java SE-13
+  * Apache TomCat
+
+
+Instruções de uso: 
+  * Faça o dowload do arquivo .war;
+  * Já no Eclipse IDE clique com o botao direito na workspace, depois clique em "import" e em seguida selecione "war file";
+  * Abra o arquivo login.jsp;
+  * Clique com o botao direito na tela de codificação;
+  * Passe o mouse por cima da opção "run" e selecione a opção "run on server";
+  * Escolha o servidor que você deseja executar a aplicação;
+  * Programa funcionando! Peço para que assista o video disponibilizado caso haja a necessidade de mais explicações sobre como utilizar a aplicação.
